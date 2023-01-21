@@ -1,7 +1,9 @@
 # projeto<h1 align="center"> Habits </h1>
 
 <p align="center">
-NLW é um evento exclusivo e graduito,promovido pela Rocketseat para ensino tecnologico WEB<br>
+NLW é um evento exclusivo e graduito,promovido pela Rocketseat para ensino tecnologico WEB
+  <br>
+  <br
 
   <img alt="projeto habits" src="habits.jpg">
 </p>
