@@ -3,7 +3,7 @@
 <p align="center">
 NLW é um evento exclusivo e graduito,promovido pela Rocketseat para ensino tecnologico WEB<br>
 
-  <img alt="projeto habits" src="cover.jpg">
+  <img alt="projeto habits" src="habits.jpg">
 </p>
 <br>
 
