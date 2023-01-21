@@ -22,7 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto habits é um app para ajudar a rastrear os hábitos.
 
-- [Acesse o projeto finalizado, online](https://renatodev23.github.io/projeto/)
+- [Acesse o projeto finalizado, online](https://renatodev23.github.io/NLW-setup)
 
 ## 🔖 Layout
 
